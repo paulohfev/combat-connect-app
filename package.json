@@ -6,6 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "docker:start:dev": "docker-compose up -d && docker exec -it combat-connect-app-dev /bin/sh",
     "lint": "next lint",
     "test": "jest",
     "test:clear": "jest --clearCache",
