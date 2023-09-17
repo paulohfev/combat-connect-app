@@ -1,0 +1,124 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navbar should match the snapshot 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <header
+        class="MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed mui-fixed css-17su868-MuiPaper-root-MuiAppBar-root"
+      >
+        <div
+          class="MuiContainer-root MuiContainer-maxWidthLg css-1nhcsch-MuiContainer-root"
+        >
+          <a
+            href="/"
+            role="link"
+            style="align-items: center; display: flex; text-decoration: none;"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+              data-testid="SportsMmaIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M7 20c0 .55.45 1 1 1h8c.55 0 1-.45 1-1v-3H7v3zM18 7c-.55 0-1 .45-1 1V5c0-1.1-.9-2-2-2H7c-1.1 0-2 .9-2 2v5.8c0 .13.01.26.04.39l.8 4c.09.47.5.8.98.8h10.36c.45 0 .89-.36.98-.8l.8-4c.03-.13.04-.26.04-.39V8c0-.55-.45-1-1-1zm-3 3H7V7h8v3z"
+              />
+            </svg>
+            <span
+              class="MuiTypography-root MuiTypography-logo css-6auo1l-MuiTypography-root"
+            >
+              CombatConnect
+            </span>
+          </a>
+        </div>
+      </header>
+    </div>
+  </body>,
+  "container": <div>
+    <header
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed mui-fixed css-17su868-MuiPaper-root-MuiAppBar-root"
+    >
+      <div
+        class="MuiContainer-root MuiContainer-maxWidthLg css-1nhcsch-MuiContainer-root"
+      >
+        <a
+          href="/"
+          role="link"
+          style="align-items: center; display: flex; text-decoration: none;"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+            data-testid="SportsMmaIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 20c0 .55.45 1 1 1h8c.55 0 1-.45 1-1v-3H7v3zM18 7c-.55 0-1 .45-1 1V5c0-1.1-.9-2-2-2H7c-1.1 0-2 .9-2 2v5.8c0 .13.01.26.04.39l.8 4c.09.47.5.8.98.8h10.36c.45 0 .89-.36.98-.8l.8-4c.03-.13.04-.26.04-.39V8c0-.55-.45-1-1-1zm-3 3H7V7h8v3z"
+            />
+          </svg>
+          <span
+            class="MuiTypography-root MuiTypography-logo css-6auo1l-MuiTypography-root"
+          >
+            CombatConnect
+          </span>
+        </a>
+      </div>
+    </header>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
