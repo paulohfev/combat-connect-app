@@ -5,9 +5,11 @@ import React from 'react'
 import Link from 'next/link'
 
 import { SportsMma } from '@mui/icons-material'
-import { AppBar, Container, Typography } from '@mui/material'
+import { AppBar, Typography } from '@mui/material'
 
 import { APP_ROUTES } from '@/routes/app.routes'
+
+import Container from '@/components/layout/Container'
 
 import styles from './styles'
 
